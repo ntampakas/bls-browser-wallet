@@ -42,4 +42,3 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ## Learn More
 
 You can learn more at the [BLS wallet website](https://blswallet.org/).
-
